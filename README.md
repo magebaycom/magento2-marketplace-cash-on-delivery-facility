@@ -37,4 +37,4 @@
 
 <p><em>- Contact&nbsp;us:&nbsp;<a href="mailto:info@magebay.com" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">info@magebay.com</a></em></p>
 
-<p><em>- Website:<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
+<p><em>- Website:&nbsp;<a href="https://www.magebay.com/" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration-line: none;">https://www.magebay.com</a></em></p>
